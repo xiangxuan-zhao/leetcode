@@ -2,6 +2,9 @@ package com.zxx.one;
 
 import java.util.Stack;
 
+/**
+ * @author Administrator
+ */
 public class ValidParentheses {
     public boolean isValid(String s) {
         if(s.isEmpty()){

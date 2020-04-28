@@ -1,4 +1,4 @@
-out/
+target/
 !**/src/main/**
 !**/src/test/**
 
