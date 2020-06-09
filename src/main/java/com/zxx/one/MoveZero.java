@@ -1,7 +1,9 @@
 package com.zxx.one;
 
+/**
+ * @author Administrator
+ */
 public class MoveZero {
-
     /**
      * [283]移动零
      * 解法一
